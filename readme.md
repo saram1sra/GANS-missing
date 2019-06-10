@@ -10,7 +10,7 @@ Python 3 Kernel in Jupyter Notebooks
 
 ### Dependencies 
 Tensorflow \
-Keras \ 
+Keras\
 Tqdm
 
 ### Datasets
