@@ -1,0 +1,9 @@
+**/.ipynb_checkpoints/*
+annotations/*
+*.zip
+**/tf_env/
+bleh.py
+CHOMP/*
+Documents/*
+Frontier Exploration/*
+PATH-PLAN/*
